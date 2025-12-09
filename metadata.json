@@ -1,0 +1,7 @@
+{
+  "name": "Thesyn",
+  "description": "Thesyn is a modern, AI-powered research paper analyzer that simplifies complex academic texts into understandable summaries, offering interactive chat, glossary generation, and multimodal analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
